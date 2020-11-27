@@ -1,0 +1,267 @@
+*
+{
+
+	padding: 0;
+	margin: 0;
+}
+
+.header{
+
+	width: 960px;
+	margin: 0 auto;
+
+
+}
+
+.nav{
+
+	width: 960px;
+	background: #4f4d4b;
+
+}
+.nav ul{
+
+	padding: 0;
+	margin: 0;
+
+
+}
+
+.nav ul li{
+
+	list-style: none;
+	display: inline-block;
+
+
+}
+
+	.nav ul li a{
+	display: block;
+	padding: 25px 25px;
+	color: #0cdbf2;
+	font-size: 15px;
+	font-weight: bold;
+	text-transform: capitalize;
+	text-decoration: none;
+
+
+}
+.nav ul li a:hover{
+	color:#b90fbc;
+
+		}
+
+
+
+
+
+
+/*end of header nav bar*/ 
+
+/*start of header middle banner  bar*/ 
+
+.banner{
+
+position: relative;
+height: 50vh;
+background-position:center;
+background-size:cover ;
+background-repeat: no-repeat;
+
+
+}
+.text{
+
+	padding: 100px 35px;
+
+}
+
+.text p{
+	font-size: 25px;
+	text-align:left;
+	font-weight: bold;
+
+	text-transform: uppercase;
+	color:#006a4e;
+
+	text-shadow:4px 2px 4px white;
+
+}
+/*end of header middle banner  bar*/ 
+
+/*start of left side nav bar bar*/ 
+
+h2{
+font-size: 20px;
+font-weight: bold;
+text-transform: uppercase;
+background:black;
+color:#d3b8d2;
+text-shadow:4px 2px 4px white;
+
+width:250px;
+margin: 0;
+padding: 4px 0px;
+ letter-spacing: 2px;
+
+
+
+}
+
+.container{
+
+
+}
+
+.side-nav{
+
+	width: 250px;
+	height: auto;
+	background-color: #4f4d4b;
+
+}
+
+.side-nav ul
+{
+	padding: 0;
+	margin: 0;
+
+
+}
+
+.side-nav ul li
+{
+list-style: none;
+
+}
+
+.side-nav ul li a{
+
+	display: block;
+	color: black;
+	font-size:15px;
+
+	border-bottom: 2px dotted yellow;
+
+	text-transform: capitalize;
+	text-decoration: none;
+	padding: 8px 15px;
+	margin: 0px 0px 0px 10px;
+
+
+
+}
+
+
+.side-nav ul li a:hover{
+	color:blue;
+	background-color: #b90fbc;
+
+
+}
+/*end of left side nav  bar*/ 
+
+
+/*start of right middle  bar*/ 
+
+
+.main-content
+{
+width: 670px;
+padding: 0px 20px;
+background-color: #d3b8d2;
+
+
+}
+
+
+.main-content h1{
+
+	font-size: 30px;
+	text-align: center;
+	font-weight: bold;
+	margin-bottom: 15px;
+		text-shadow:4px 2px 4px #4f4d4b;
+}
+
+
+.main-content h2
+{
+
+font-size: 20px;
+text-align: center;
+	font-weight: bold;
+	margin-bottom: 10px;
+
+		}
+
+		.main-content h4
+		{
+
+font-size: 20px;
+text-align: center;
+text-transform: capitalize;
+	font-weight: bold;
+		text-shadow:4px 2px 4px #4f4d4b;
+
+
+		}
+
+		.main-content p
+		{
+
+			font-size: 15px;
+			line-height: 20px;
+		}
+
+
+
+
+
+.row{
+
+	overflow: auto;
+
+
+}
+
+.col{
+
+float: left;
+
+
+
+
+
+}
+/*end of right middle  bar*/ 
+
+
+/*start of footer bar*/ 
+
+
+.footer
+{
+
+background: #4f4d4b;
+padding: 20px;
+
+
+
+
+
+
+}
+
+.footer p
+{
+font-size: 20px;
+font-weight: bold;
+text-align: center;
+text-transform: uppercase;
+color: white;
+	text-shadow:4px 2px 4px green;
+
+}
+
+
